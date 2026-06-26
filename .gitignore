@@ -1,0 +1,5 @@
+# Configuration files
+config.ini
+
+# AutoHotkey compiled files (if any are created later)
+*.exe
